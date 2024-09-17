@@ -1,0 +1,22 @@
+header > span {
+    display: block;
+}
+
+.grand-hotel-regular {
+    font-family: "Grand Hotel", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.page-container {
+    height: 100dvh;
+    padding: 20px 10px 40px 10px;
+}
+
+.btn-container {
+    width: 100%;
+}
+
+.btn-container > button {
+    display: block;
+}
